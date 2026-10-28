@@ -1,8 +1,8 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 16
-- **Họ tên:** 
-- **Lớp:** 
+- **Họ tên:** Trần Kim Đức
+- **Lớp:** HCM_K26_CNTT1
 - **Link repository:** 
 - **Hệ điều hành (Windows/macOS):** 
 
