@@ -13,7 +13,14 @@
 ```shell
 # Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
 
-```
+```pwd
+get-childitem -force
+git init
+git add .
+ git commit -m "first commit"
+ git branch -M main
+ git remote add origin https://github.com/Duccaidu234/Bai-kiem-tra-giua-ky.git
+ git push -u origin main
 
 ### Kết quả liệt kê toàn bộ dự án (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
